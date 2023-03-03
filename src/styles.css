@@ -1,0 +1,7 @@
+body{
+  background-image: url("https://i.pinimg.com/originals/67/90/fe/6790fe667e487c763d601491e8c39af9.jpg");
+  backdrop-filter: blur(3px);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
